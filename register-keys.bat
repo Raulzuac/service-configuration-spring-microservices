@@ -1,0 +1,1 @@
+vault kv put secret/booking-microservice @booking-microservice.json
